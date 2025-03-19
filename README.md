@@ -4,7 +4,7 @@
 GitSHA is a lightweight script for scraping and extracting commit hashes, even some deleted commits from Git repositories. It do a simple work which run a bruteforce extraction from 0000 to ffff.
 
 ## Installation
----
+
 GitSHA requires Python 3.8.0 or later.
 
 ```bash
@@ -28,7 +28,7 @@ pip install requests
 ```
 
 ## Usage
----
+
 ```bash
 usage: python gitsha.py [-h HELP] -r REPO
 
@@ -45,7 +45,7 @@ python gitsha.py -r 'gr1d-init/gitsha'
 ```
 
 ## Licensing and Copyright
----
+
 GitSHA is licensed under the MIT License
 
 Copyright (C) 2025 gr1d
