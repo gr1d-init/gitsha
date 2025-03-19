@@ -9,7 +9,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Constants
 CHECKPOINT_FILE = "progress_checkpoint.txt"
-PASS_FILE = "pass.txt"
+PASS_FILE = "commit_entries.txt"
 MAX_WORKERS = 20
 LENGTH = 4  # Adjust length for longer SHA1 prefixes
 GITHUB_BASE_URL = "https://github.com/{}/commit/"
