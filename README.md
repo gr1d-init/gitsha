@@ -43,7 +43,7 @@ options:
 ```bash
 python gitsha.py -r 'gr1d-init/gitsha'
 ```
-Outputs:  
+### Outputs  
 `progress_checkpoint.txt` saves your progress  
 `comit_entries` indicates the extracted commit entries  
 
