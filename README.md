@@ -44,8 +44,8 @@ options:
 python gitsha.py -r 'gr1d-init/gitsha'
 ```
 Outputs: 
-`progress_checkpoint.txt` saves your progress
-`comit_entries` indicates the extracted commit entries
+`progress_checkpoint.txt` saves your progress  
+`comit_entries` indicates the extracted commit entries  
 
 
 ## Licensing and Copyright
